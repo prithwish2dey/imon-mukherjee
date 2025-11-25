@@ -1,13 +1,13 @@
 SEO & Google Search Console — Quick Steps
 
 1) Replace placeholder URLs
- - The repo has been updated to use your Vercel URL `https://imon-sir-website.vercel.app/`.
+ - The repo has been updated to use your Vercel URL `https://imon-mukherjee.vercel.app/`.
  - Verify that the site is deployed at that URL; if you prefer another canonical domain (www vs non-www), update `index.html` canonical accordingly.
-- The repo has been updated to use your Vercel URL `https://imon-sir-website.vercel.app/`.
+- The repo has been updated to use your Vercel URL `https://imon-mukherjee.vercel.app/`.
 - Verify that the site is deployed at that URL; if you prefer another canonical domain (www vs non-www) or a custom domain, update `index.html` canonical accordingly.
 
 2) Google site verification (HTML tag method)
-- Add a new property for your domain (prefer "Domain" property) or URL-prefix (e.g., https://imon-sir-website.vercel.app).
+- Add a new property for your domain (prefer "Domain" property) or URL-prefix (e.g., https://imon-mukherjee.vercel.app).
 If you choose URL-prefix, use the "HTML tag" verification method and paste the meta tag already present in `index.html`:
   <meta name="google-site-verification" content="21WnAsJHeuDGbkDgcbsONx4JkrVbA6qMkFn-HbTx8qI" />
 - Save and deploy your site (so the meta tag is live at the root URL), then click "Verify" in Search Console.
