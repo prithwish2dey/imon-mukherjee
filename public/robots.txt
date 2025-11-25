@@ -14,4 +14,4 @@ User-agent: *
 Allow: /
 
 # Sitemap - updated to point to your Vercel deployment. If you use a custom domain, update this to your canonical domain.
-Sitemap: https://imon-sir-website.vercel.app/sitemap.xml
+Sitemap: https://imon-mukherjee.vercel.app/sitemap.xml
